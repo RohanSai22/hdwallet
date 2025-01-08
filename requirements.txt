@@ -1,2 +1,8 @@
-streamlit
-openai
+
+streamlit 
+mnemonic 
+bip32utils 
+ecdsa 
+base58 
+pyperclip 
+qrcode
